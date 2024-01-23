@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Bem-vindo(a) ao meu perfil!
 
  <div>
    <a href="https://github.com/BrunoYtalo">
@@ -14,8 +14,9 @@
 
 </div>
  
-<br>
- 
+ <br>
+ <br>
+
 ### Siga-me também nas redes sociais abaixo!
  
 <div> 
