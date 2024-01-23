@@ -16,7 +16,7 @@
  
 <br>
  
-### Me sigam  também nas redes abaixo!
+### Siga-me também nas redes sociais abaixo!
  
 <div> 
   <a href="https://instagram.com/brunoytalo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
